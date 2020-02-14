@@ -1,5 +1,5 @@
 # BigDataProjet
-A projet for the class of the Telecom Saint Etienne
+A projet for the class of Telecom Saint Etienne
 
 
 ## Planning:
