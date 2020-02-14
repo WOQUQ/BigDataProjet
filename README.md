@@ -9,7 +9,9 @@ A projet for the class of the Telecom Saint Etienne
 + Livrable finaux
 
 ## Strategy
-![image](https://github.com/WOQUQ/BigDataProjet/blob/master/structure.PNG)
+![image](https://github.com/WOQUQ/BigDataProjet/blob/master/0.PNG)
+![image](https://github.com/WOQUQ/BigDataProjet/blob/master/1.PNG)
+![image](https://github.com/WOQUQ/BigDataProjet/blob/master/2.PNG)
 
 HDFS -> AWS (ML PROCESS) -> MONGO DB
 
